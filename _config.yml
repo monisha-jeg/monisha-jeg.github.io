@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Monisha Jegadeesan"
+title                    :
 title_separator          : "-"
 name                     : &name "Monisha Jegadeesan"
 description              : &description "personal description"
