@@ -15,5 +15,5 @@ main:
   # - title: "Blog"
   #   url: https://accioredmoon.blogspot.com
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/

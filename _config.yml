@@ -11,9 +11,9 @@ title                    : "Monisha Jegadeesan"
 title_separator          : "-"
 name                     : &name "Monisha Jegadeesan"
 description              : &description "personal description"
-url                      : https://monisha-jega.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://monisha-jeg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "monisha-jega/monisha-jega.github.io"
+repository               : "monisha-jeg/monisha-jeg.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Monisha Jegadeesan"
   avatar           : "circle-cropped.png"
-  bio              : "Software Engineer, Google"
+  bio              : "Senior Software Engineer, Google"
   location         : 
   employer         : 
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "monisha-jega"
+  github           : "monisha-jeg"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "monisha_jega"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
