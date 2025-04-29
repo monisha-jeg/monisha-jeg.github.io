@@ -15,6 +15,6 @@ I graduated from the [Indian Institute of Technology Madras](https://www.iitm.ac
 
 Find a detailed resume [here](/files/cv.pdf).
 
-I am a practitioner of Bharatanatyam, an Indian classical dance form. Reading and writing are other things I do when I find myself blighted by spare time. 
+I am a [practitioner](https://youtube.com/playlist?list=PL6msSfSnNx8ShEA24bow8HqopqeC_oekK&feature=shared) of Bharatanatyam, an Indian classical dance form. Reading and writing are other things I do when I find myself blighted by spare time. 
 
 Note: The [older version of this site](https://monisha-jega.github.io/) is abandoned and not up-to-date anymore. Same goes for the associated github account (@monisha-jega).
