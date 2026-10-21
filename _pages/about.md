@@ -15,6 +15,6 @@ I graduated from the [Indian Institute of Technology Madras](https://www.iitm.ac
 
 Find a detailed resume [here](/files/cv.pdf).
 
-I am an amateur [practitioner](https://youtube.com/playlist?list=PL6msSfSnNx8ShEA24bow8HqopqeC_oekK&feature=shared) of Bharatanatyam, an Indian classical dance form. [Writing]("https://parsingbeing.substack.com/") and [reading]("https://www.goodreads.com/user/show/28840222-monisha-jegadeesan") are other things I do. 
+I am an amateur [practitioner](https://youtube.com/playlist?list=PL6msSfSnNx8ShEA24bow8HqopqeC_oekK&feature=shared) of Bharatanatyam, an Indian classical dance form. [Writing](https://parsingbeing.substack.com/) and [reading](https://www.goodreads.com/user/show/28840222-monisha-jegadeesan) are other things I do.
 
 Note: The [older version of this site](https://monisha-jega.github.io/) is abandoned and not up-to-date anymore. Same goes for the associated github account (@monisha-jega).
