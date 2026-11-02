@@ -13,7 +13,7 @@ I am a Senior Software Engineer at Google, New York, working on performance and 
 
 I graduated from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) with a Bachelor's and a Master's in Technology, majoring in Computer Science and Engineering. My Master's [thesis](https://drive.google.com/file/d/1IBnnL6tLmiG2SE56J1CqBcX2ZRpLk1AZ/view?usp=sharing) ([slides](https://drive.google.com/file/d/1oL__61Rhwv9MtSbYKZP3dNCgDcsJbCiT/view?usp=sharing)) was on paraphrase generation with neural language models, under the mentorship of [Prof. Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). My other explorations in the field of natural language processing include multimodal dialogue systems and augemented scene generation from text.
 
-Find a detailed resume [here](/files/cv.pdf).
+Find a detailed resume [here](/files/RESUME.pdf).
 
 I am an amateur [practitioner](https://youtube.com/playlist?list=PL6msSfSnNx8ShEA24bow8HqopqeC_oekK&feature=shared) of Bharatanatyam, an Indian classical dance form. [Writing](https://parsingbeing.substack.com/) and [reading](https://www.goodreads.com/user/show/28840222-monisha-jegadeesan) are other things I do.
 
